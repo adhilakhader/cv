@@ -61,6 +61,10 @@ position: relative;
 padding-top: 100px;
 }
 
+.middle-container {
+  padding-top: 100px;
+}
+
 .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 50px ;
